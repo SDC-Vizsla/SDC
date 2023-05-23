@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1684332436411" clover="3.2.0">
+  <project timestamp="1684332436411" name="All files">
+    <metrics statements="11" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="9" coveredmethods="6" elements="21" coveredelements="15" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="controller.js" path="/Users/rodrigogramitto/Desktop/HR/projects/FEC/atelier/product-detail-page/client/src/components/relatedItems/controller.js">
+      <metrics statements="11" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="9" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="32" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
